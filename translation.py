@@ -32,19 +32,19 @@ Support Group : @brylledu
 NB : It is Recommended To Use A Custom Thubnail Because, Some Time Wont Upload The File Without a Custom Thubnail.
 
 
-Support Group : @HxSupport
+Support Group : @brylledu
 """
 
 
-    ABOUT_TEXT = """⭕️<b>My Name : @HxURLuploadBot</b>
+    ABOUT_TEXT = """⭕️<b>My Name : @bryll_urluploader_bot</b>
 
-⭕️<b>Creater : @Kirodewal</b>
+⭕️<b>Creater : @bryll_helpdesk_bot</b>
 
 ⭕️<b>Language : Python3</b>
 
 ⭕️<b>Library : Pyrogram 1.0.7</b>
 
-⭕️<b>Source Code : 👉 <a href='https://github.com/Kirodewal/URLuploader-With-Hotstar'>Click Here</a></b>"""
+⭕️<b>Source Code : 👉 <a href=''>Click Here</a></b>"""
 
 
 
