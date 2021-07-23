@@ -87,9 +87,9 @@ URL | newfilename | username | password"""
     
     SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail."
     
-    DONATE = "<b>If you like our bot and want to donate to an educational institution of India <big>BRYLL EDUCATION</big>, then kindly contact our chatbot👉 @bryll_helpdesk_bot.</b>"
+    DONATE_TEXT = "<b>If you like our bot and want to donate to an educational institution of India <big>BRYLL EDUCATION</big>, then kindly contact our chatbot👉 @bryll_helpdesk_bot.</b>"
     
-    JOIN = """<b>Join the channels of <big>BRYLL EDUCATION</big>👇👇👇</b>
+    JOIN_TEXT = """<b>Join the channels of <big>BRYLL EDUCATION</big>👇👇👇</b>
     
 <b><a href='https://telegram.me/joinchat/pYITM96MQSs3OTRl'>OFFICAL BRYLL EDUCATION CHANNEL</a></b>
     
