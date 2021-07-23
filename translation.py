@@ -62,15 +62,11 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = """<b>👉 If You Liked Our Bots And Service Feel Free To Donate...🥰</b>
-
-  If You Want Any Private Bot Or Supscription Feel Free To Contact Me...@Kirodewal...."""
+    UPGRADE_TEXT = """<b>👉 If You Liked Our Bots And Service Feel Free To Donate...🥰</b>"""
     
     DOWNLOAD_START = "Trying to download your file..."
     
     UPLOAD_START = "Uploading now.."
-    
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds."
 
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
