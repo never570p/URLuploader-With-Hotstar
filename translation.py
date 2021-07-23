@@ -38,7 +38,7 @@ Added Permanent Thumbnail Support💯😋!!
 
 ⭕️<b>Library : Pyrogram 1.0.7</b>
 
-⭕️<b>Source Code : 👉 <a href='https://t.me/bryll_education'>Click Here</a></b>"""
+⭕️<b>Source Code👉 <a href='https://t.me/bryll_education'>Click Here</a></b>"""
 
 
 
@@ -53,9 +53,18 @@ Added Permanent Thumbnail Support💯😋!!
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = """<b>👉 If You Liked Our Bots And Service Feel Free To Donate...🥰</b>"""
+    UPGRADE_TEXT = """<b>👉 If You Liked Our Bot And Service Feel Free To Donate👉 @bryll_helpdesk_bot...🥰</b>"""
     
-    DOWNLOAD_START = "Trying to download your file... <b>Meanwhile, take some effort to join our channel.</b>"
+    DOWNLOAD_START = "Trying to download your file... "
+    
+    "<b>Meanwhile, take some effort to join our channels.</b>"
+    
+    "<b><a href='https://telegram.me/joinchat/pYITM96MQSs3OTRl'>OFFICAL BRYLL EDUCATION CHANNEL</a></b>"
+    "<b><a href='https://telegram.me/joinchat/Byy3UEQiOGFmYzdl'>ARJUNA BATCH CHANNEL</a></b>"
+    "<b><a href='https://telegram.me/joinchat/LgoxoX9xbJg3OGE9'>LAKSHYA NEET BATCH EDUCATION CHANNEL</a></b>"
+    "<b><a href='https://telegram.me/joinchat/2sNWupJ4FiMwMmQ1'>UDAAN RELOADED BATCH CHANNEL</a></b>"
+    "<b><a href='https://telegram.me/joinchat/OV3uy8mueUxmYjM1'>YAKEEN BATCH CHANNEL</a></b>"
+    "<b><a href='https://telegram.me/joinchat/KUEo0gfLBvwzZjU1'>LAKSHYA NEET BATCH 2 CHANNEL</a></b>"
     
     UPLOAD_START = "Uploading now...Have a cup of tea till I upload"
 
@@ -65,12 +74,14 @@ URL | newfilename | username | password"""
 
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully."
 
-    CUSTOM_CAPTION_UL_FILE = " "
+    CUSTOM_CAPTION_UL_FILE = "<b>@bryll_education</b>"
 
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
 
-    NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
+    NO_VOID_FORMAT_FOUND = "ERROR...<b>Kindly contact our helpdesk👉 @bryll_helpdesk_bot to sort out the problem.</b>"
     
     SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail."
+    
+    DONATE = "<b>If you like our bot and want to donate to an educational institution of India <big>BRYLL EDUCATION</big>, then kindly contact our chatbot👉 @bryll_helpdesk_bot.</b>"
     
     NO_THUMB = "No saved thumbnails Found!!\n\nSend an image to save it as your thumbnail permanently."    
