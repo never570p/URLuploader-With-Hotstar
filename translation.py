@@ -6,33 +6,27 @@ I can support Hotstar, Google Drive, and much more Links😌!
 
 Send Me Any Direct Download URL Link, I Can Upload To Telegram As File/Video!
 
-Our bot will be offline for last 10-15 days of the month. If you want the bot to be online for your work 24/7 then please donate us via our Helpdesk.
+<b><big>Our bot will be offline for last 10-15 days of the month. If you want the bot to be online for your work 24/7 then please donate us via our Helpdesk.</big></b>
+
+<b><big>This bot is made by BRYLL EDUCATION TEAM. You can donate or contact us at👉 @bryll_helpdesk_bot.</big></b>
 
 Added Permanent Thumbnail Support💯😋!!
 
-Support Group : @brylledu
+<b>Support Group : @brylledu</b>
 """
 
     HELP_USER = """It's not that complicated😅
-    
-1. Send Me A Tumbnail if required. It'll be saved permanently.💯
 
-2. If Thumbnail Wasn't Set By You, It'll Be Auto Generated From The File.🥳
+1. Press /deletthumbnail To Delete Your Current Custom Thumbnail
 
-3. Send Me Any Link To Be Uploaded To Telegram.
-
-4. Press /deletthumbnail To Delete Your Current Custom Thumbnail
-
-5. Select the button.
+2. Select the button.
    SVideo - Give File as video with Screenshots
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-NB : It is Recommended To Use A Custom Thubnail Because, Some Time Wont Upload The File Without a Custom Thubnail.
 
-
-Support Group : @brylledu
+<b>Support Group : @brylledu</b>
 """
 
 
@@ -44,7 +38,7 @@ Support Group : @brylledu
 
 ⭕️<b>Library : Pyrogram 1.0.7</b>
 
-⭕️<b>Source Code : 👉 <a href=''>Click Here</a></b>"""
+⭕️<b>Source Code : 👉 <a href='https://t.me/bryll_education'>Click Here</a></b>"""
 
 
 
@@ -53,10 +47,7 @@ Support Group : @brylledu
 🎞  - Stream format
 📁  - File format
 
-<i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
-    
-Send your custum thumbnail if required.
-You can use /deletethumbnail to delete the auto-generated thumbnail."""
+<i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇"""
     
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
@@ -64,9 +55,9 @@ URL | newfilename | username | password"""
 
     UPGRADE_TEXT = """<b>👉 If You Liked Our Bots And Service Feel Free To Donate...🥰</b>"""
     
-    DOWNLOAD_START = "Trying to download your file..."
+    DOWNLOAD_START = "Trying to download your file... <b>Meanwhile, take some effort to join our channel.</b>"
     
-    UPLOAD_START = "Uploading now.."
+    UPLOAD_START = "Uploading now...Have a cup of tea till I upload"
 
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
