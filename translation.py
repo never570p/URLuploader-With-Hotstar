@@ -6,9 +6,11 @@ I can support Hotstar, Google Drive, and much more Links😌!
 
 Send Me Any Direct Download URL Link, I Can Upload To Telegram As File/Video!
 
+Our bot will be offline for last 10-15 days of the month. If you want the bot to be online for your work 24/7 then please donate us via our Helpdesk.
+
 Added Permanent Thumbnail Support💯😋!!
 
-Support Group : @HxSupport
+Support Group : @brylledu
 """
 
     HELP_USER = """It's not that complicated😅
