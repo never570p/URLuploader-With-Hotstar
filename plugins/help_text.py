@@ -19,7 +19,7 @@ async def help_user(bot, update):
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/HxBots")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/bryll_education")]]),
    )
 
 @Client.on_message(filters.command(["upgrade"]))
@@ -40,8 +40,8 @@ async def start(bot, update):
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ CHANNEL ⭕️", url="https://t.me/HxBots")], [InlineKeyboardButton(text="😇 SUPPORT", url="https://t.me/HxSupport"),
-                                                    InlineKeyboardButton(text="Donate ♐️", url="https://Pay2me.vercel.app/kkirodewal@okaxis")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ CHANNEL ⭕️", url="https://t.me/bryll_education")], [InlineKeyboardButton(text="😇 SUPPORT", url="https://t.me/brylledu"),
+                                                    InlineKeyboardButton(text="Donate ♐️", url="https://t.me/bryll_helpdesk_bot")]]),
     )
 
 @Client.on_message(filters.command(["about"]))
