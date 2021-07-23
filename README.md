@@ -2,7 +2,7 @@
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
-#### If you find any bugs, report to [Kirodewal](https://telegram.dog/Kirodewal)
+#### If you find any bugs, report at Group [HxSupport](https://telegram.dog/HxSupport)
 
 ### Features
 
@@ -24,7 +24,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?)
 
 #### Run in your VPS
 ```sh
