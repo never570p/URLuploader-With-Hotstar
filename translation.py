@@ -2,7 +2,7 @@ class Translation(object):
 
     START_TEXT = """Yo, I am a Powefull URL Upload Bot 🤓!
 
-I can support Hotstar, Google Drive, and much more Links😌!
+I can support Hotstar, Google Drive, m3u8 link (Especially for Allen and Physics Wallah Lectures download) and much more Links😌!
 
 Send Me Any Direct Download URL Link, I Can Upload To Telegram As File/Video!
 
@@ -57,7 +57,7 @@ URL | newfilename | username | password"""
     
     DOWNLOAD_START = """Trying to download your file... 
    
-<b>Meanwhile, take some effort to join our channels.</b>
+<b>Meanwhile, take some effort to join our channels.👇👇👇</b>
     
 <b><a href='https://telegram.me/joinchat/pYITM96MQSs3OTRl'>OFFICAL BRYLL EDUCATION CHANNEL</a></b>
     
@@ -88,5 +88,13 @@ URL | newfilename | username | password"""
     SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail."
     
     DONATE = "<b>If you like our bot and want to donate to an educational institution of India <big>BRYLL EDUCATION</big>, then kindly contact our chatbot👉 @bryll_helpdesk_bot.</b>"
+    
+    JOIN = """<b>Join the channels of <big>BRYLL EDUCATION</big>👇👇👇</b>
+    <b><a href='https://telegram.me/joinchat/pYITM96MQSs3OTRl'>OFFICAL BRYLL EDUCATION CHANNEL</a></b>
+    <b><a href='https://telegram.me/joinchat/Byy3UEQiOGFmYzdl'>ARJUNA BATCH CHANNEL</a></b>"
+    <b><a href='https://telegram.me/joinchat/LgoxoX9xbJg3OGE9'>LAKSHYA NEET BATCH EDUCATION CHANNEL</a></b>
+    <b><a href='https://telegram.me/joinchat/2sNWupJ4FiMwMmQ1'>UDAAN RELOADED BATCH CHANNEL</a></b>
+    <b><a href='https://telegram.me/joinchat/OV3uy8mueUxmYjM1'>YAKEEN BATCH CHANNEL</a></b>
+    <b><a href='https://telegram.me/joinchat/KUEo0gfLBvwzZjU1'>LAKSHYA NEET BATCH 2 CHANNEL</a></b>"""
     
     NO_THUMB = "No saved thumbnails Found!!\n\nSend an image to save it as your thumbnail permanently."    
