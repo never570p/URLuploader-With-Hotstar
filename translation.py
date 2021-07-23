@@ -55,16 +55,16 @@ URL | newfilename | username | password"""
 
     UPGRADE_TEXT = """<b>👉 If You Liked Our Bot And Service Feel Free To Donate👉 @bryll_helpdesk_bot...🥰</b>"""
     
-    DOWNLOAD_START = "Trying to download your file... "
+    DOWNLOAD_START = """""Trying to download your file... 
     
-    "<b>Meanwhile, take some effort to join our channels.</b>"
+    <b>Meanwhile, take some effort to join our channels.</b>
     
-    "<b><a href='https://telegram.me/joinchat/pYITM96MQSs3OTRl'>OFFICAL BRYLL EDUCATION CHANNEL</a></b>"
-    "<b><a href='https://telegram.me/joinchat/Byy3UEQiOGFmYzdl'>ARJUNA BATCH CHANNEL</a></b>"
-    "<b><a href='https://telegram.me/joinchat/LgoxoX9xbJg3OGE9'>LAKSHYA NEET BATCH EDUCATION CHANNEL</a></b>"
-    "<b><a href='https://telegram.me/joinchat/2sNWupJ4FiMwMmQ1'>UDAAN RELOADED BATCH CHANNEL</a></b>"
-    "<b><a href='https://telegram.me/joinchat/OV3uy8mueUxmYjM1'>YAKEEN BATCH CHANNEL</a></b>"
-    "<b><a href='https://telegram.me/joinchat/KUEo0gfLBvwzZjU1'>LAKSHYA NEET BATCH 2 CHANNEL</a></b>"
+    <b><a href='https://telegram.me/joinchat/pYITM96MQSs3OTRl'>OFFICAL BRYLL EDUCATION CHANNEL</a></b>
+    <b><a href='https://telegram.me/joinchat/Byy3UEQiOGFmYzdl'>ARJUNA BATCH CHANNEL</a></b>"
+    <b><a href='https://telegram.me/joinchat/LgoxoX9xbJg3OGE9'>LAKSHYA NEET BATCH EDUCATION CHANNEL</a></b>
+    <b><a href='https://telegram.me/joinchat/2sNWupJ4FiMwMmQ1'>UDAAN RELOADED BATCH CHANNEL</a></b>
+    <b><a href='https://telegram.me/joinchat/OV3uy8mueUxmYjM1'>YAKEEN BATCH CHANNEL</a></b>
+    <b><a href='https://telegram.me/joinchat/KUEo0gfLBvwzZjU1'>LAKSHYA NEET BATCH 2 CHANNEL</a></b>"""""
     
     UPLOAD_START = "Uploading now...Have a cup of tea till I upload"
 
