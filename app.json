@@ -40,6 +40,11 @@
       "value": "",
       "required": false
     },
+    "UPDATE_CHANNEL": {
+      "description": "Your bot updates channel like Ns_bot_updates (username without @ for forcesub). (Leave empty it you don't want to add)",
+      "value": "",
+      "required": false
+    },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail link to be used in the videos if youtube-dl is unable to find a thumbnail. Get a link for your image from @TGraphHEXbot",
       "value": "",
