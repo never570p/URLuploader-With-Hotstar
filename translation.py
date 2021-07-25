@@ -72,7 +72,6 @@ URL | newfilename | username | password"""
 <b><a href='https://telegram.me/joinchat/KUEo0gfLBvwzZjU1'>LAKSHYA NEET BATCH 2 CHANNEL</a></b>"""
     
     UPLOAD_START = "Uploading now...Have a cup of tea till I upload"
-    "@bryll_education"
 
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
