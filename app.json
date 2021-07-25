@@ -31,12 +31,13 @@
       "value": "True",
       "required": false
     },
-    "AUTH_USERS": {
-      "description": "allow only pre-defined users to use this bot",
-      "value": "680815375"
-    },
     "BANNED_USERS": {
       "description": "Ban Unwanted members..",
+      "value": "",
+      "required": false
+    },
+    "UPDATE_CHANNEL": {
+      "description": "Your bot updates channel like Ns_bot_updates (username without @ for forcesub). (Leave empty it you don't want to add)",
       "value": "",
       "required": false
     },
