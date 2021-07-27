@@ -45,7 +45,7 @@ async def start(bot, update):
     )
 
 @Client.on_message(filters.command(["join"]))
-async def start(bot, update):
+async def join(bot, update):
     await bot.send_message(
         chat_id=update.chat.id,
         text=Translation.JOIN_TEXT,
