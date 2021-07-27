@@ -56,14 +56,15 @@ async def join(bot, update):
                                                     [InlineKeyboardButton(text="🎯 LAKSHYA NEET BATCH CHANNEL 🎯", url="https://t.me/joinchat/LgoxoX9xbJg3OGE9")], [InlineKeyboardButton(text="🚀 UDAAN RELOADED CHANNEL 🚀", url="https://t.me/joinchat/2sNWupJ4FiMwMmQ1")], [InlineKeyboardButton(text="🙂🙂 YAKEEN BATCH 2022 CHANNEL 🙂🙂", url="https://t.me/joinchat/OV3uy8mueUxmYjM1")], [InlineKeyboardButton(text="🔥 LAKSHYA NEET BATCH 2.0 CHANNEL 🔥", url="https://t.me/joinchat/KUEo0gfLBvwzZjU1")], [InlineKeyboardButton(text="💵💵 EARN FROM TELEGRAM 💵💵", url="https://t.me/bryll_adnetwork_bot")]]),
     )
 @Client.on_message(filters.command(["donate"]))
-def donate(bot, update):
-    bot.send_message(
+async def donate(bot, update):
+    await bot.send_message(
         chat_id=update.chat.id,
         text=Translation.DONATE_TEXT,
         parse_mode="html",
+        disable_web_page_preview=True,
         reply_to_message_id=update.message_id,
-        disable_web_page_preview=True 
-    ) 
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="HELPDESK", url="https://t.me/bryll_helpdesk_bot")]]),
+   )
 
 @Client.on_message(filters.command(["about"]))
 def about(bot, update):
