@@ -89,7 +89,7 @@ URL | newfilename | username | password"""
     
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using @bryll_education "
     
-    DONATE_TEXT = "<b>If you like our bot and want to donate to an educational institution of India <big>BRYLL EDUCATION</big>, then kindly contact our chatbo👇👇👇.</b>"
+    DONATE_TEXT = "<b>If you like our bot and want to donate to an educational institution of India <big>BRYLL EDUCATION</big>, then kindly contact our HELPDESK👇👇👇.</b>"
     
     JOIN_TEXT = "<b>Join the channels of <big>BRYLL EDUCATION</big>👇👇👇</b>"
        
