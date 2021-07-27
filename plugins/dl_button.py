@@ -61,6 +61,7 @@ async def ddl_call_back(bot, update):
     start = datetime.now()
     await bot.edit_message_text(
         text=Translation.DOWNLOAD_START,
+      disable_web_page_preview=True,
         chat_id=update.message.chat.id,
         message_id=update.message.message_id
     )
