@@ -77,7 +77,9 @@ URL | newfilename | username | password"""
     
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using @bryll_education"
     
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Thanks for using @bryll_education"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = """Your file has been uploaded. Thanks for using @bryll_urluploader_bot.
+
+Kindly /join BRYLL EDUCATION Channels to support us."""
     
     DONATE_TEXT = "<b>If you like our bot and want to donate to an educational institution of India <big>BRYLL EDUCATION</big>, then kindly contact our HELPDESK👇👇👇.</b>"
     
