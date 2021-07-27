@@ -53,7 +53,7 @@ async def join(bot, update):
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id,
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="✅ OFFICIAL CHANNEL ✅", url="https://t.me/joinchat/pYITM96MQSs3OTRl")], [InlineKeyboardButton(text="🏹 ARJUNA NEET BATCH CHANNEL 🏹", url="https://t.me/joinchat/Byy3UEQiOGFmYzdl")],
-                                                    [InlineKeyboardButton(text="🎯 LAKSHYA NEET BATCH CHANNEL 🎯", url="https://t.me/joinchat/LgoxoX9xbJg3OGE9")]]),
+                                                    [InlineKeyboardButton(text="🎯 LAKSHYA NEET BATCH CHANNEL 🎯", url="https://t.me/joinchat/LgoxoX9xbJg3OGE9")], [InlineKeyboardButton(text="🚀 UDAAN RELOADED CHANNEL 🚀", url="https://t.me/joinchat/2sNWupJ4FiMwMmQ1")], [InlineKeyboardButton(text="🙂🙂 YAKEEN BATCH 2022 CHANNEL 🙂🙂", url="https://t.me/joinchat/OV3uy8mueUxmYjM1")]]),
     )
 
 @Client.on_message(filters.command(["about"]))
