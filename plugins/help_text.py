@@ -66,11 +66,11 @@ async def donate(bot, update):
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="💬 OUR HELPDESK 💬", url="https://t.me/bryll_helpdesk_bot")]]),
    )
 
-    @Client.on_message(filters.command(["UPLOAD"]))
-async def upload(bot, update):
+    @Client.on_message(filters.command(["download"]))
+async def download(bot, update):
     await bot.send_message(
         chat_id=update.chat.id,
-        text=Translation.UPLOAD_START,
+        text=Translation.DOWNLOAD_TEXT,
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id,
