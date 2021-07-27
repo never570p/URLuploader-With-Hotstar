@@ -85,7 +85,9 @@ URL | newfilename | username | password"""
 
     NO_VOID_FORMAT_FOUND = "ERROR...<b>Kindly contact our helpdesk👉 @bryll_helpdesk_bot to sort out the problem.</b>"
     
-    SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail.
+    SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail."
+    
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using @bryll_education "
     
     DONATE_TEXT = "<b>If you like our bot and want to donate to an educational institution of India <big>BRYLL EDUCATION</big>, then kindly contact our chatbot👉 @bryll_helpdesk_bot.</b>"
     
