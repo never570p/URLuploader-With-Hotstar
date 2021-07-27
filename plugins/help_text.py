@@ -63,8 +63,6 @@ def donate(bot, update):
         parse_mode="html",
         reply_to_message_id=update.message_id,
         disable_web_page_preview=True 
-        reply_to_message_id=update.message_id,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="CHAT BOT", url="https://t.me/bryll_helpdesk_bot")]]),
     ) 
 
 @Client.on_message(filters.command(["about"]))
