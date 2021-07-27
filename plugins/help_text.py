@@ -44,6 +44,18 @@ async def start(bot, update):
                                                     InlineKeyboardButton(text="Donate ♐️", url="https://t.me/bryll_helpdesk_bot")]]),
     )
 
+@Client.on_message(filters.command(["join"]))
+async def start(bot, update):
+    await bot.send_message(
+        chat_id=update.chat.id,
+        text=Translation.JOIN_TEXT,
+        parse_mode="html",
+        disable_web_page_preview=True,
+        reply_to_message_id=update.message_id,
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ CHANNEL ⭕️", url="https://t.me/bryll_education")], [InlineKeyboardButton(text="😇 SUPPORT", url="https://t.me/brylledu"),
+                                                    InlineKeyboardButton(text="Donate ♐️", url="https://t.me/bryll_helpdesk_bot")]]),
+    )
+
 @Client.on_message(filters.command(["about"]))
 def about(bot, update):
     
