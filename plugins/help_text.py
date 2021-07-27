@@ -66,7 +66,7 @@ async def donate(bot, update):
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="💬 OUR HELPDESK 💬", url="https://t.me/bryll_helpdesk_bot")]]),
    )
 
-    @Client.on_message(filters.command(["upload"]))
+    @Client.on_message(filters.command(["UPLOAD"]))
 async def upload(bot, update):
     await bot.send_message(
         chat_id=update.chat.id,
