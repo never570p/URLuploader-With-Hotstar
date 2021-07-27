@@ -55,7 +55,7 @@ URL | newfilename | username | password"""
 
     UPGRADE_TEXT = """<b>👉 If You Liked Our Bot And Service Feel Free To Donate👉 @bryll_helpdesk_bot...🥰</b>"""
     
-    DOWNLOAD_START = """Trying to download your file... 
+    DOWNLOAD_TEXT = """Trying to download your file... 
    
 <b>Meanwhile, take some effort to join our channels.👇👇👇</b>
     
