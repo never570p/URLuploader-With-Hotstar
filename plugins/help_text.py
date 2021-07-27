@@ -52,8 +52,8 @@ async def join(bot, update):
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ CHANNEL ⭕️", url="https://t.me/bryll_education")], [InlineKeyboardButton(text="😇 SUPPORT", url="https://t.me/brylledu"),
-                                                    InlineKeyboardButton(text="Donate ♐️", url="https://t.me/bryll_helpdesk_bot")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="✅ OFFICIAL CHANNEL ✅", url="https://t.me/joinchat/pYITM96MQSs3OTRl")], [InlineKeyboardButton(text="🏹 ARJUNA NEET BATCH CHANNEL 🏹", url="https://t.me/joinchat/Byy3UEQiOGFmYzdl")],
+                                                    InlineKeyboardButton(text="🎯 LAKSHYA NEET BATCH CHANNEL 🎯", url="https://t.me/joinchat/LgoxoX9xbJg3OGE9")]),
     )
 
 @Client.on_message(filters.command(["about"]))
