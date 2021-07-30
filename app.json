@@ -25,6 +25,10 @@
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
       "value": ""
+      },
+        "UPDATES_CHANNEL": {
+            "description": "Your Updates Channel ID For ForceSub. Get it from @Find_TGIDbot",
+            "required": false
     },
     "SCREENSHOTS": {
       "description": "Generate screenshots for file after uploading ( True or false )",
