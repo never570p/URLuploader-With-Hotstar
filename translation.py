@@ -6,8 +6,6 @@ I can support Hotstar, Google Drive, m3u8 link (Especially for Allen and Physics
 
 Send Me Any Direct Download URL Link, I Can Upload To Telegram As File/Video!
 
-<b><big>Our bot will be offline for last 10-15 days of the month. If you want the bot to be online for your work 24/7 then please donate us via our Helpdesk.</big></b>
-
 <b><big>This bot is made by BRYLL EDUCATION TEAM. You can donate or contact us at👉 @bryll_helpdesk_bot.</big></b>
 
 Added Permanent Thumbnail Support💯😋!!
@@ -32,7 +30,7 @@ Added Permanent Thumbnail Support💯😋!!
 
     ABOUT_TEXT = """⭕️<b>My Name : @bryll_urluploader_bot</b>
 
-⭕️<b>Creater : @bryll_helpdesk_bot</b>
+⭕️<b>Creator : BRYLL EDUCATION</b>
 
 ⭕️<b>Language : Python3</b>
 
