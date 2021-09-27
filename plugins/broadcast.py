@@ -6,7 +6,7 @@ import random
 import time
 import os
 
-from bot.database import Database
+from helper_funcs import Database
 from pyrogram import filters
 from pyrogram import Client
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
